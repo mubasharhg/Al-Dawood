@@ -1,0 +1,7 @@
+{
+  "name": "Al Dawood Central AC Works",
+  "description": "Professional HVAC and maintenance services website for Al Dawood Central AC Works based in Mussafah M9, Abu Dhabi, featuring AI-powered troubleshooting and image visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
